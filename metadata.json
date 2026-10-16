@@ -1,0 +1,6 @@
+{
+  "name": "CODEXRA ALARM",
+  "description": "Advanced native Android alarm and habit intelligence system with Wake-Up Missions, custom notifications, daily routines, tasks, and discipline streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
